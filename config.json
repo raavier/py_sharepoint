@@ -1,0 +1,10 @@
+{
+    "share_point":
+    {
+        "user":"flavio.assis@vale.com",
+        "password":"pss",
+        "url":"https://globalvale.sharepoint.com",
+        "site":"https://globalvale.sharepoint.com/teams/SSMARE",
+        "doc_library": "Shared Documents/"
+    }
+}
